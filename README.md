@@ -31,6 +31,17 @@ This project demonstrates how to **simulate, filter, and visualize an ECG signal
 4. Open the **Scope** block to view the filtered ECG output.
 
 ---
+### 📉 Raw ECG Signal
+
+![Raw ECG Signal](raw_ecg.png)
+
+---
+
+### 🔬 Filtered ECG Signal
+
+![Filtered ECG Signal](filtered_ecg.png)
+
+---
 
 ##  Author
 
