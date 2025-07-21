@@ -46,7 +46,7 @@ This project demonstrates how to **simulate, filter, and visualize an ECG signal
 ##  Author
 
 **Wasan Qusay Hasan**  
-Biomedical Engineering  — Iraq 🇮🇶
+Biomedical Engineer  — Iraq 🇮🇶
 
 ---
 
