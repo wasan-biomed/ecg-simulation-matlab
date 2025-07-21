@@ -7,7 +7,7 @@
 ##  الترجمة
 
 🔹 [English version](README.md)  
-🔹 🇩🇪 (README_de.md)
+🔹 🇩🇪 [النسخة الألمانية ](README_de.md)
 
 ---
 
